@@ -5,6 +5,29 @@
 - ColumnTents: Number of tents per column
 - Trees: Positions of trees
 - Tents: Positions of tents to be placed
+<br />
+
+## Visualization
+
+The below describes a 5x5 field where the trees are represented as "Y". <br />
+We want to place the minimum number of tents with the following constraints: <br />
+1. We can't place a tent where a tree is placed.
+2. Two tents can't be in nearby positions (horizontal, vertical, diagonal)
+3. At least one (more is possible) tent must be placed around a tree.
+4. Can't place more than the maximum number of tents both on rows and columns.
+
+<br />
+
+|       |   1   |   2   |   3   |   4   |   5   |       |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|   1   |       |   Y   |       |       |       |   0   |
+|   2   |       |       |       |       |   Y   |       |
+|   3   |       |       |   Y   |       |       |       |
+|   4   |       |       |       |       |       |   3   |
+|   5   |   Y   |       |       |       |   Y   |       |
+|       |   1   |   1   |       |       |   1   |       |
+<br />
+
 
 
 ## Input examples
