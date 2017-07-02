@@ -1,10 +1,10 @@
 ## Overview
 
 #### tents(RowTents, ColumnTents, Trees, Tents)
-- RowTents: List of vectors
-- ColumnTents: List of network weights
-- Trees: List of vectors
-- Tents: List of network weights
+- RowTents: Number of tents per row
+- ColumnTents: Number of tents per column
+- Trees: Positions of trees
+- Tents: Positions of tents to be placed
 
 
 ## Input examples
