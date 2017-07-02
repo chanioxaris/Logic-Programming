@@ -1,6 +1,3 @@
-## Overview
-
-
 ## Input examples
 
 - ?- put_dominos.
