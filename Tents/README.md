@@ -28,6 +28,20 @@ We want to place the minimum number of tents with the following constraints: <br
 |       |   1   |   1   |       |       |   1   |       |
 <br />
 
+One possible solution for the above field, where "Δ" stands for a tent, is the following:
+
+<br />
+
+|       |   1   |   2   |   3   |   4   |   5   |       |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|   1   |       |   Y   |       |       |       |   0   |
+|   2   |       |       |   Δ   |       |   Y   |       |
+|   3   |       |       |   Y   |       |   Δ   |       |
+|   4   |       |       |       |       |       |   3   |
+|   5   |   Y   |   Δ   |       |   Δ   |   Y   |       |
+|       |   1   |   1   |       |       |   1   |       |
+<br />
+
 
 
 ## Input examples
