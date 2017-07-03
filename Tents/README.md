@@ -4,7 +4,7 @@
 - RowTents: Number of tents per row
 - ColumnTents: Number of tents per column
 - Trees: Positions of trees
-- Tents: Positions of tents to be placed
+- Tents: Positions of placed tents 
 <br />
 
 ## Visualization
