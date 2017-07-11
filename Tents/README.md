@@ -7,7 +7,7 @@
 - Tents: Positions of placed tents 
 <br />
 
-## Board Representation
+## Board representation
 
 The below describes a 5x5 field where the trees are represented as "Y". <br />
 We want to place the minimum number of tents with the following constraints: <br />
