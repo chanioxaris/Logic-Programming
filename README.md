@@ -1,4 +1,4 @@
-# Logic-Programming
+# Overview
 
 Some projects of Logic Programming in Prolog, implemented using ECLiPSe (Eclipse Constraint Logic Programming)
 
